@@ -7,7 +7,7 @@
 <body>
     <?php
     //affichage du message bienvenue
-    echo"Bienvenue dans mon TP PHP";
+    echo"Bienvenue dans mon TP PHP <br>";
 
     // on utilise(//) pour un commentaire sur une seule ligne
 
@@ -20,8 +20,8 @@
         echo "Nom : Loubna<br>";
         echo "Prènom : El Fatimi<br>";
         echo "Groupe : 02";
-
-        <?= "dérnière phrase avec syntax court" ?>
+    ?>
+        <?= "br>derniere phrase avec syntaxe court"?>
 
 </body>
 </html>
