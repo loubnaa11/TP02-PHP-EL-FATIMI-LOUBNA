@@ -17,8 +17,8 @@
         c'est un commentaire
         sur plusieurs lignes
     */
-        echo "Nom : Loubna<br>";
-        echo "Prènom : El Fatimi<br>";
+        echo "Nom : El Fatimi<br>";
+        echo "Prènom : Loubna<br>";
         echo "Groupe : 02";
     ?>
         <?= "br>derniere phrase avec syntaxe court"?>
