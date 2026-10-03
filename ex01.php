@@ -19,9 +19,9 @@
     */
         echo "Nom : El Fatimi<br>";
         echo "Prènom : Loubna<br>";
-        echo "Groupe : 02";
+        echo "Groupe : 02<br>";
     ?>
-        <?= "br>derniere phrase avec syntaxe court"?>
+        <?= "derniere phrase avec syntaxe court"?>
 
 </body>
 </html>
