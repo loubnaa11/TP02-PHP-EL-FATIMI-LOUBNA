@@ -4,6 +4,7 @@
 <body>
 <h1>Exercice 9 — Tableaux et foreach</h1>
 <?php
+//Exercice9
 $notes = ["Amine" => 12, "Sara" => 16, "Youssef" => 8,
           "Lina" => 14, "Adam" => 10];
 $somme = 0;
