@@ -4,8 +4,7 @@
 <body>
 <h1>Exercice 10 — Traitement GET</h1>
 <?php
-// Ne lire les champs que lorsqu'ils existent et sont des chaînes.
-// is_string() permet aussi de refuser des paramètres comme nom[]=Amine.
+//EX10 get php
 if (!isset($_GET['nom'], $_GET['prenom'], $_GET['groupe'])) {
     echo "<p>Veuillez remplir et envoyer le formulaire.</p>";
 } elseif (!is_string($_GET['nom']) || !is_string($_GET['prenom'])

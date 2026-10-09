@@ -4,8 +4,7 @@
 <body>
 <h1>Exercice 10 — Traitement POST</h1>
 <?php
-// Ne lire les champs que lorsqu'ils existent et sont des chaînes.
-// is_string() permet aussi de refuser des paramètres comme nom[]=Amine.
+//EX10 post php
 if (!isset($_POST['nom'], $_POST['prenom'], $_POST['groupe'])) {
     echo "<p>Veuillez remplir et envoyer le formulaire.</p>";
 } elseif (!is_string($_POST['nom']) || !is_string($_POST['prenom'])
