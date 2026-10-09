@@ -10,6 +10,7 @@
     echo"Bienvenue dans mon TP PHP <br>";
 
     // on utilise(//) pour un commentaire sur une seule ligne
+    
 
 
     /* 
