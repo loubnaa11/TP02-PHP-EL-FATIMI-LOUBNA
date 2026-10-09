@@ -4,6 +4,7 @@
 <body>
 <h1>Exercice 8 — Contrôle des boucles</h1>
 <?php
+//Exercice8
 echo "<h2>1. Nombres pairs</h2>";
 $nombre = 0;
 while ($nombre <= 20) {
