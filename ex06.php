@@ -7,6 +7,7 @@
 <body>
     <h1>Exercice 6 - Switch et Date</h1>
     <?php
+    // Exercice 06
     $numeroMois=(int) date("m");
 
     switch ($numeroMois) {
