@@ -9,7 +9,7 @@ $notes = ["Amine" => 12, "Sara" => 16, "Youssef" => 8,
           "Lina" => 14, "Adam" => 10];
 $somme = 0;
 $nombreValides = 0;
-$meilleureNote = -1; // Les notes de cet exercice sont comprises entre 0 et 20.
+$meilleureNote = -1; // Les notes entre 0 et 20.
 $meilleurEtudiant = "";
 echo '<table border="1"><tr><th>Étudiant</th><th>Note</th><th>Résultat</th></tr>';
 foreach ($notes as $nom => $note) {

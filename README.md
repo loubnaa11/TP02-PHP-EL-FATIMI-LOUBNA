@@ -13,6 +13,7 @@ Module : Programmation Web 2 — 2026/2027
 - `echo` convertit les valeurs en chaînes de caractères avant de les afficher. La valeur booléenne `true` donne `"1"`, tandis que `false` donne une chaîne vide `""` (rien n'apparaît à l'écran).
 - `var_dump()` affiche le type de la variable ainsi que sa valeur brute, ce qui permet de voir explicitement `bool(false)`.
 
+
 ### Exercice 5 - Tests des moyennes
 - `-1` : Note invalide
 - `9` : Non validé
